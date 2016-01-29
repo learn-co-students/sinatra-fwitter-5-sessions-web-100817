@@ -312,4 +312,4 @@ If there's no current user, we'll show them a link to either sign up or login.
 Awesome! We've now used a session to create a different user experience for people who are logged in or not!
 
 
-<a href='https://learn.co/lessons/sinatra-fwitter-5-sessions' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-fwitter-5-sessions' title='Sinatra Fwitter 5 -  Sessions'>Sinatra Fwitter 5 -  Sessions</a> on Learn.co and start learning to code for free.</p>
